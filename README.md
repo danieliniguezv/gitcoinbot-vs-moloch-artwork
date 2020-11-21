@@ -4,7 +4,7 @@ Artwork for Gitcoinbot & The Public Goods Justice League Vs Moloch.
 
 This is an original art series of Gitcoinbots fighting Moloch in the 21st century.
 
-## Bakcground
+## Background
 
 Moloch was considered to be a Canaanite god associated with child sacrifice. The sacrifice
 was done by means of depositing the offerings inside a bronze statue serving as a furnace.
